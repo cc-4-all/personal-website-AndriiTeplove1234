@@ -61,8 +61,9 @@ h2 {
 }
 
 #prev, #next {
-    height:15px;
-    width:15px;
+    height:55px;
+    width:55px;
+    font-size:2rem;
     background:none;
     border:none;
 }
@@ -82,3 +83,11 @@ footer{
     margin:auto;
     margin-bottom:15px;
 }
+
+.gallery-container{
+    display:flex;
+    align-items:center;
+    margin-left:10%;
+    margin-right:10%;
+}
+
